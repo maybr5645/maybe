@@ -1,17 +1,7 @@
 #include <iostream>
 using namespace std;
 //**************************
-bool is_Prime(int num)
-{
-    for(int i=2;i<num;i++)
-    {
-        if(num%i==0)
-        {
-            return false;
-        }
-    }
-    return true;
-}
+//**************************
 bool is_Leapyear(int year)
 {
     if(year%400==0||(year%4==0&&year%400!=0)||(year % 3200 == 0 && year % 172800 == 0))
