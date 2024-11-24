@@ -1,0 +1,3 @@
+/Users/zhaojundi/Coding/cpp/speechContestSystem/build/CMakeFiles/rebuild_cache.dir
+/Users/zhaojundi/Coding/cpp/speechContestSystem/build/CMakeFiles/edit_cache.dir
+/Users/zhaojundi/Coding/cpp/speechContestSystem/build/CMakeFiles/cmake.dir

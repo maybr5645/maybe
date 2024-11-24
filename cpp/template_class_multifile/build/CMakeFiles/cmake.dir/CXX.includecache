@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/person.hpp
+iostream
+-
+
+/Users/zhaojundi/Coding/cpp/template_class_multifile/src/mainc.cpp
+iostream
+-
+person.hpp
+/Users/zhaojundi/Coding/cpp/template_class_multifile/src/person.hpp
+

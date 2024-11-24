@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/speechContestSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/speechContestSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/main.cpp.o -c /Users/zhaojundi/Coding/cpp/speechContestSystem/src/main.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/speechContestSystem/src/main.cpp"
+},
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/speechContestSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/speechContestSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/speechManager.cpp.o -c /Users/zhaojundi/Coding/cpp/speechContestSystem/src/speechManager.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/speechContestSystem/src/speechManager.cpp"
+}
+]

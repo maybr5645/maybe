@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/speaker.h
+iostream
+-
+
+../include/speechManager.h
+iostream
+-
+vector
+-
+map
+-
+algorithm
+-
+random
+-
+deque
+-
+functional
+-
+speaker.h
+../include/speaker.h
+numeric
+-
+
+/Users/zhaojundi/Coding/cpp/speechContestSystem/src/speechManager.cpp
+speechManager.h
+/Users/zhaojundi/Coding/cpp/speechContestSystem/src/speechManager.h
+

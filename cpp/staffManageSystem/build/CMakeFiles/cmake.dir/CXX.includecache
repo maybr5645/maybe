@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/boss.h
+iostream
+-
+worker.h
+../include/worker.h
+
+../include/employee.h
+iostream
+-
+worker.h
+../include/worker.h
+
+../include/manager.h
+iostream
+-
+worker.h
+../include/worker.h
+
+../include/worker.h
+iostream
+-
+
+/Users/zhaojundi/Coding/cpp/staffManageSystem/src/boss.cpp
+boss.h
+/Users/zhaojundi/Coding/cpp/staffManageSystem/src/boss.h
+
+/Users/zhaojundi/Coding/cpp/staffManageSystem/src/employee.cpp
+employee.h
+/Users/zhaojundi/Coding/cpp/staffManageSystem/src/employee.h
+
+/Users/zhaojundi/Coding/cpp/staffManageSystem/src/manager.cpp
+manager.h
+/Users/zhaojundi/Coding/cpp/staffManageSystem/src/manager.h
+

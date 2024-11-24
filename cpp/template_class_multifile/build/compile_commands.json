@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/template_class_multifile/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/template_class_multifile/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/mainc.cpp.o -c /Users/zhaojundi/Coding/cpp/template_class_multifile/src/mainc.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/template_class_multifile/src/mainc.cpp"
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/staffManageSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/staffManageSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/boss.cpp.o -c /Users/zhaojundi/Coding/cpp/staffManageSystem/src/boss.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/staffManageSystem/src/boss.cpp"
+},
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/staffManageSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/staffManageSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/employee.cpp.o -c /Users/zhaojundi/Coding/cpp/staffManageSystem/src/employee.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/staffManageSystem/src/employee.cpp"
+},
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/staffManageSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/staffManageSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/main.cpp.o -c /Users/zhaojundi/Coding/cpp/staffManageSystem/src/main.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/staffManageSystem/src/main.cpp"
+},
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/staffManageSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/staffManageSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/manager.cpp.o -c /Users/zhaojundi/Coding/cpp/staffManageSystem/src/manager.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/staffManageSystem/src/manager.cpp"
+},
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/staffManageSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/staffManageSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/workManager.cpp.o -c /Users/zhaojundi/Coding/cpp/staffManageSystem/src/workManager.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/staffManageSystem/src/workManager.cpp"
+},
+{
+  "directory": "/Users/zhaojundi/Coding/cpp/staffManageSystem/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaojundi/Coding/cpp/staffManageSystem/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/cmake.dir/src/worker.cpp.o -c /Users/zhaojundi/Coding/cpp/staffManageSystem/src/worker.cpp",
+  "file": "/Users/zhaojundi/Coding/cpp/staffManageSystem/src/worker.cpp"
+}
+]
